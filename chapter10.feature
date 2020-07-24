@@ -1,0 +1,5 @@
+Feature: Test the protractor website
+Scenario: To check the view on github button functionality
+
+Given Open protractor website
+
